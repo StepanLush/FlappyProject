@@ -17,9 +17,12 @@ pipeBottom.src = "img/pipeBottom.png";
 var gap = 90;
 
 
+// При нажатии на какую-либо кнопку
+document.addEventListener("keydown", moveUp);
+
 function moveUp() {
- yPos -= 25;
- fly.play();
+    yPos -= 25;
+    fly.play();
 }
 
 
