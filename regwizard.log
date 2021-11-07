@@ -1,0 +1,339 @@
+[09.09.21 06:57:45 pm] C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\LicenseManager.exe -silentUpdate
+
+[09.09.21 06:57:45 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\cglm.ini
+
+[09.09.21 06:57:45 pm] INI file located.
+
+[09.09.21 06:57:45 pm] Initializing LicenseManager.exe
+[09.09.21 06:57:45 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 06:57:45 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..\License
+[09.09.21 06:57:45 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..
+[09.09.21 06:57:45 pm] License Dir Exists: True
+[09.09.21 06:57:45 pm] Root Dir Exists: True
+[09.09.21 06:57:45 pm] Default Dir Exists: False
+[09.09.21 06:57:45 pm] ProductId:-1 - SkuId:-1
+
+[09.09.21 06:58:44 pm] C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\licensemanager.exe -reg -skey 8222_20 -loadKey 2028 -a
+
+[09.09.21 06:58:44 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\cglm.ini
+
+[09.09.21 06:58:44 pm] INI file located.
+
+[09.09.21 06:58:44 pm] Initializing LicenseManager.exe
+[09.09.21 06:58:44 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 06:58:44 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..\License
+[09.09.21 06:58:44 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..
+[09.09.21 06:58:44 pm] License Dir Exists: True
+[09.09.21 06:58:44 pm] Root Dir Exists: True
+[09.09.21 06:58:44 pm] Default Dir Exists: True
+[09.09.21 06:58:44 pm] ProductId:8222 - SkuId:20
+
+[09.09.21 06:59:50 pm] EDN User Name:
+[09.09.21 06:59:50 pm] ProductID being registered: 8222
+[09.09.21 06:59:50 pm] Serial being registered: HSFL-6VQYWN-L6V5NK-HBNS
+[09.09.21 06:59:50 pm] Starting Registration Process.
+
+[09.09.21 06:59:55 pm] Completed Registration Process.
+[09.09.21 06:59:55 pm] Registration Error Code: 0
+[09.09.21 06:59:55 pm] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
+[09.09.21 07:00:11 pm] C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\licensemanager.exe -reg -skey 8222_20 -loadKey 2028 -a
+
+[09.09.21 07:00:11 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\cglm.ini
+
+[09.09.21 07:00:11 pm] INI file located.
+
+[09.09.21 07:00:11 pm] Initializing LicenseManager.exe
+[09.09.21 07:00:11 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 07:00:11 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..\License
+[09.09.21 07:00:11 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..
+[09.09.21 07:00:11 pm] License Dir Exists: True
+[09.09.21 07:00:11 pm] Root Dir Exists: True
+[09.09.21 07:00:11 pm] Default Dir Exists: True
+[09.09.21 07:00:11 pm] ProductId:8222 - SkuId:20
+
+[09.09.21 07:01:23 pm] C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\licensemanager.exe -reg -skey 8222_20 -loadKey 2028 -a
+
+[09.09.21 07:01:23 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\cglm.ini
+
+[09.09.21 07:01:23 pm] INI file located.
+
+[09.09.21 07:01:23 pm] Initializing LicenseManager.exe
+[09.09.21 07:01:23 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 07:01:23 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..\License
+[09.09.21 07:01:23 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\22.0\bin\\..
+[09.09.21 07:01:23 pm] License Dir Exists: True
+[09.09.21 07:01:23 pm] Root Dir Exists: True
+[09.09.21 07:01:23 pm] Default Dir Exists: True
+[09.09.21 07:01:23 pm] ProductId:8222 - SkuId:20
+
+[09.09.21 10:28:24 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\LicenseManager.exe -silentUpdate
+
+[09.09.21 10:28:24 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:28:24 pm] INI file located.
+
+[09.09.21 10:28:24 pm] Initializing LicenseManager.exe
+[09.09.21 10:28:24 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:28:24 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:28:24 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:28:24 pm] License Dir Exists: True
+[09.09.21 10:28:24 pm] Root Dir Exists: True
+[09.09.21 10:28:24 pm] Default Dir Exists: False
+[09.09.21 10:28:24 pm] ProductId:-1 - SkuId:-1
+
+[09.09.21 10:29:31 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:29:31 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:29:31 pm] INI file located.
+
+[09.09.21 10:29:31 pm] Initializing LicenseManager.exe
+[09.09.21 10:29:31 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:29:31 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:29:31 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:29:31 pm] License Dir Exists: True
+[09.09.21 10:29:31 pm] Root Dir Exists: True
+[09.09.21 10:29:31 pm] Default Dir Exists: True
+[09.09.21 10:29:31 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:31:38 pm] EDN User Name:
+[09.09.21 10:31:38 pm] ProductID being registered: 8221
+[09.09.21 10:31:38 pm] Serial being registered: 34CL-GXSKJK-3YV567-AE8D
+[09.09.21 10:31:38 pm] Starting Registration Process.
+
+[09.09.21 10:31:42 pm] Completed Registration Process.
+[09.09.21 10:31:42 pm] Registration Error Code: 0
+[09.09.21 10:31:42 pm] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
+[09.09.21 10:31:58 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:31:58 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:31:58 pm] INI file located.
+
+[09.09.21 10:31:58 pm] Initializing LicenseManager.exe
+[09.09.21 10:31:58 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:31:58 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:31:58 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:31:58 pm] License Dir Exists: True
+[09.09.21 10:31:58 pm] Root Dir Exists: True
+[09.09.21 10:31:58 pm] Default Dir Exists: True
+[09.09.21 10:31:58 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:33:05 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:33:05 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:33:05 pm] INI file located.
+
+[09.09.21 10:33:05 pm] Initializing LicenseManager.exe
+[09.09.21 10:33:05 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:33:05 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:33:05 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:33:05 pm] License Dir Exists: True
+[09.09.21 10:33:05 pm] Root Dir Exists: True
+[09.09.21 10:33:05 pm] Default Dir Exists: True
+[09.09.21 10:33:05 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:33:30 pm] EDN User Name:
+[09.09.21 10:33:30 pm] ProductID being registered: 8221
+[09.09.21 10:33:30 pm] Serial being registered: 34CL-GXSKJK-3YV567-AE8D
+[09.09.21 10:33:30 pm] Starting Registration Process.
+
+[09.09.21 10:33:33 pm] Completed Registration Process.
+[09.09.21 10:33:33 pm] Registration Error Code: 0
+[09.09.21 10:33:33 pm] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
+[09.09.21 10:37:23 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:37:23 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:37:23 pm] INI file located.
+
+[09.09.21 10:37:23 pm] Initializing LicenseManager.exe
+[09.09.21 10:37:23 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:37:23 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:37:23 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:37:23 pm] License Dir Exists: True
+[09.09.21 10:37:23 pm] Root Dir Exists: True
+[09.09.21 10:37:23 pm] Default Dir Exists: True
+[09.09.21 10:37:23 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:37:58 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:37:58 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:37:58 pm] INI file located.
+
+[09.09.21 10:37:58 pm] Initializing LicenseManager.exe
+[09.09.21 10:37:58 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:37:58 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:37:58 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:37:58 pm] License Dir Exists: True
+[09.09.21 10:37:58 pm] Root Dir Exists: True
+[09.09.21 10:37:58 pm] Default Dir Exists: True
+[09.09.21 10:37:58 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:42:30 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:42:30 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:42:30 pm] INI file located.
+
+[09.09.21 10:42:30 pm] Initializing LicenseManager.exe
+[09.09.21 10:42:30 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:42:30 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:42:30 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:42:30 pm] License Dir Exists: True
+[09.09.21 10:42:30 pm] Root Dir Exists: True
+[09.09.21 10:42:30 pm] Default Dir Exists: True
+[09.09.21 10:42:30 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:42:37 pm] EDN User Name:
+[09.09.21 10:42:37 pm] ProductID being registered: 8221
+[09.09.21 10:42:37 pm] Serial being registered: JSFL-NY3N4N-DZQLSK-M4NS
+[09.09.21 10:42:37 pm] Starting Registration Process.
+
+[09.09.21 10:42:40 pm] Completed Registration Process.
+[09.09.21 10:42:40 pm] Registration Error Code: 0
+[09.09.21 10:42:40 pm] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
+[09.09.21 10:42:44 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:42:44 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:42:44 pm] INI file located.
+
+[09.09.21 10:42:44 pm] Initializing LicenseManager.exe
+[09.09.21 10:42:44 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:42:44 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:42:44 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:42:44 pm] License Dir Exists: True
+[09.09.21 10:42:44 pm] Root Dir Exists: True
+[09.09.21 10:42:44 pm] Default Dir Exists: True
+[09.09.21 10:42:44 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:47:05 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:47:05 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:47:05 pm] INI file located.
+
+[09.09.21 10:47:05 pm] Initializing LicenseManager.exe
+[09.09.21 10:47:05 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:47:05 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:47:05 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:47:05 pm] License Dir Exists: True
+[09.09.21 10:47:05 pm] Root Dir Exists: True
+[09.09.21 10:47:05 pm] Default Dir Exists: True
+[09.09.21 10:47:05 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:48:02 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:48:02 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:48:02 pm] INI file located.
+
+[09.09.21 10:48:02 pm] Initializing LicenseManager.exe
+[09.09.21 10:48:02 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:48:02 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:48:02 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:48:02 pm] License Dir Exists: True
+[09.09.21 10:48:02 pm] Root Dir Exists: True
+[09.09.21 10:48:02 pm] Default Dir Exists: True
+[09.09.21 10:48:02 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:52:28 pm] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\licensemanager.exe -reg -skey 8221_20 -loadKey 2027 -a
+
+[09.09.21 10:52:28 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.09.21 10:52:28 pm] INI file located.
+
+[09.09.21 10:52:28 pm] Initializing LicenseManager.exe
+[09.09.21 10:52:28 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.09.21 10:52:28 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.09.21 10:52:28 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.09.21 10:52:28 pm] License Dir Exists: True
+[09.09.21 10:52:28 pm] Root Dir Exists: True
+[09.09.21 10:52:28 pm] Default Dir Exists: True
+[09.09.21 10:52:28 pm] ProductId:8221 - SkuId:20
+
+[09.09.21 10:55:29 pm] EDN User Name:
+[09.09.21 10:55:29 pm] ProductID being registered: 8221
+[09.09.21 10:55:29 pm] Serial being registered: HSFL-6VQYWN-L6V5NK-HBNS
+[09.09.21 10:55:29 pm] Starting Registration Process.
+
+[09.09.21 10:55:33 pm] Completed Registration Process.
+[09.09.21 10:55:33 pm] Registration Error Code: 0
+[09.09.21 10:55:33 pm] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
+[09.10.21 09:12:38 am] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\LicenseManager.exe -silentUpdate
+
+[09.10.21 09:12:38 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.10.21 09:12:38 am] INI file located.
+
+[09.10.21 09:12:38 am] Initializing LicenseManager.exe
+[09.10.21 09:12:38 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.10.21 09:12:38 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.10.21 09:12:38 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.10.21 09:12:38 am] License Dir Exists: True
+[09.10.21 09:12:38 am] Root Dir Exists: True
+[09.10.21 09:12:38 am] Default Dir Exists: False
+[09.10.21 09:12:38 am] ProductId:-1 - SkuId:-1
+
+[09.10.21 09:41:22 am] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\LicenseManager.exe -silentUpdate
+
+[09.10.21 09:41:22 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.10.21 09:41:22 am] INI file located.
+
+[09.10.21 09:41:22 am] Initializing LicenseManager.exe
+[09.10.21 09:41:22 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.10.21 09:41:22 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.10.21 09:41:22 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.10.21 09:41:22 am] License Dir Exists: True
+[09.10.21 09:41:22 am] Root Dir Exists: True
+[09.10.21 09:41:22 am] Default Dir Exists: False
+[09.10.21 09:41:22 am] ProductId:-1 - SkuId:-1
+
+[09.10.21 10:09:07 am] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\LicenseManager.exe -silentUpdate
+
+[09.10.21 10:09:07 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.10.21 10:09:07 am] INI file located.
+
+[09.10.21 10:09:07 am] Initializing LicenseManager.exe
+[09.10.21 10:09:07 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.10.21 10:09:07 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.10.21 10:09:07 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.10.21 10:09:07 am] License Dir Exists: True
+[09.10.21 10:09:07 am] Root Dir Exists: True
+[09.10.21 10:09:07 am] Default Dir Exists: False
+[09.10.21 10:09:07 am] ProductId:-1 - SkuId:-1
+
+[09.10.21 10:09:10 am] C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\LicenseManager.exe -reg simple
+
+[09.10.21 10:09:10 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\cglm.ini
+
+[09.10.21 10:09:10 am] INI file located.
+
+[09.10.21 10:09:10 am] Initializing LicenseManager.exe
+[09.10.21 10:09:10 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.10.21 10:09:10 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..\License
+[09.10.21 10:09:10 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\\..
+[09.10.21 10:09:10 am] License Dir Exists: True
+[09.10.21 10:09:10 am] Root Dir Exists: True
+[09.10.21 10:09:10 am] Default Dir Exists: True
+[09.10.21 10:09:10 am] ProductId:-1 - SkuId:-1
+
+[09.10.21 10:13:32 am] EDN User Name:
+[09.10.21 10:13:32 am] ProductID being registered: -1
+[09.10.21 10:13:32 am] Serial being registered: 34CL-GXSKJK-3YV567-AE8D
+[09.10.21 10:13:32 am] Starting Registration Process.
+
+[09.10.21 10:13:36 am] Completed Registration Process.
+[09.10.21 10:13:36 am] Registration Error Code: 0
+[09.10.21 10:13:36 am] Registration Message: You have successfully registered your Embarcadero product.  Click Finish to exit.
+
