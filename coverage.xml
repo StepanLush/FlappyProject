@@ -1,5 +1,5 @@
 <coverage version="1">
-  <file path="./src/com/company/PrintSkill.java">
+  <file path="./js/game.js">
     <lineToCover lineNumber="26" covered="false"/>
     <lineToCover lineNumber="28" covered="true"/>
     <lineToCover lineNumber="29" covered="true"/>
