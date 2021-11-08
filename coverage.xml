@@ -1,0 +1,24 @@
+<coverage version="1">
+  <file path="./js/game.js">
+    <lineToCover lineNumber="6" covered="false"/>
+    <lineToCover lineNumber="8" covered="true"/>
+    <lineToCover lineNumber="9" covered="true"/>
+    <lineToCover lineNumber="10" covered="true"/>
+    <lineToCover lineNumber="13" covered="true"/>
+    <lineToCover lineNumber="14" covered="true"/>
+    <lineToCover lineNumber="19" covered="true"/>
+    <lineToCover lineNumber="21" covered="true"/>
+    <lineToCover lineNumber="22" covered="true"/>
+    <lineToCover lineNumber="23" covered="true"/>
+    <lineToCover lineNumber="24" covered="true"/>
+    <lineToCover lineNumber="25" covered="true"/>
+    <lineToCover lineNumber="26" covered="false"/>
+    <lineToCover lineNumber="27" covered="false"/>
+    <lineToCover lineNumber="28" covered="true"/>
+    <lineToCover lineNumber="29" covered="true"/>
+    <lineToCover lineNumber="30" covered="true"/>
+    <lineToCover lineNumber="31" covered="false"/>
+    <lineToCover lineNumber="32" covered="false"/>
+  
+  </file>
+</coverage>
