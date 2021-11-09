@@ -1,5 +1,5 @@
 <coverage version="1">
-  <file path="./js/game.js">
+  <file path="game.js">
     <lineToCover lineNumber="6" covered="false"/>
     <lineToCover lineNumber="8" covered="true"/>
     <lineToCover lineNumber="9" covered="true"/>
