@@ -12,16 +12,14 @@ fg.src = "img/fg.png";
 pipeUp.src = "img/pipeUp.png";
 pipeBottom.src = "img/pipeBottom.png";
 
+// Звуковые файлы
 var fly = new Audio();
 var score_audio = new Audio();
 
 fly.src = "audio/fly.mp3";
 score_audio.src = "audio/score.ogg";
 
-
-
 var gap = 90;
-
 
 // При нажатии на какую-либо кнопку
 document.addEventListener("keydown", moveUp);
@@ -38,10 +36,6 @@ pipe[0] = {
  x : cvs.width,
  y : 0
 }
-
-
-
-
 
 var score = 0;
 // Позиция птички
