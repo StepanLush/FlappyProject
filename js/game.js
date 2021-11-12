@@ -75,6 +75,7 @@ function draw() {
     }  
 
     ctx.drawImage(fg, 0, cvs.height - fg.height);
+    
     ctx.drawImage(bird, xPos, yPos);
 
     yPos += grav;
