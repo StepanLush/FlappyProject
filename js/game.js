@@ -6,12 +6,14 @@ var bg = new Image();
 var fg = new Image();
 var pipeUp = new Image();
 var pipeBottom = new Image();
+var end = new Image();
 
 bird.src = "img/bird.png";
 bg.src = "img/bg.png";
 fg.src = "img/fg.png";
 pipeUp.src = "img/pipeUp.png";
 pipeBottom.src = "img/pipeBottom.png";
+end.src = "img/end.png";
 
 // Звуковые файлы
 var fly = new Audio();
@@ -21,7 +23,8 @@ fly.src = "audio/fly.mp3";
 score_audio.src = "audio/score.ogg";
 
 var gap = 120;
-var best = 0;
+var inteval = 0;
+
 // При нажатии на какую-либо кнопку
 document.addEventListener("keydown", moveUp);
 
@@ -39,6 +42,8 @@ pipe[0] = {
 }
 
 var score = 0;
+var best = localStorage.getItem('BestScore');
+
 // Позиция птички
 var xPos = 10;
 var yPos = 150;
@@ -53,7 +58,7 @@ function draw() {
 
         pipe[i].x--;
 
-        if(pipe[i].x == 110) {
+        if (pipe[i].x == 110 + inteval) {
             pipe.push({
                 x : cvs.width,
                 y : Math.floor(Math.random() * pipeUp.height) - pipeUp.height
@@ -73,7 +78,10 @@ function draw() {
         if(pipe[i].x == 5) {
             score++;
             score_audio.play();
+            MakeFaster();
         }
+
+        
     }
 
     ctx.drawImage(fg, 0, cvs.height - fg.height);
@@ -85,20 +93,36 @@ function draw() {
     ctx.font = "24px Verdana";
     ctx.fillText("Счет: " + score, 10, cvs.height - 20);
     ctx.fillText("Рекорд: " + best, 10, cvs.height - 50);
-
     requestAnimationFrame(draw);
 }
 
 function endGame(){
-    do{
-        ctx.fillText("Счет: " + score, 100, 256);
-	ctx.drawImage(fg, 0, cvs.height - fg.height);
-	document.addEventListener("keyup", Reload);
+    do {
+        ctx.drawImage(end, 25, 175);
+        CheckBest();
+        ctx.fillText("Счет: " + score, 90, 256);
+	    ctx.drawImage(fg, 0, cvs.height - fg.height);
+	    document.addEventListener("keyup", Reload);
     }while(x == 1);
+}
+
+function CheckBest() {
+    if (score > best) {
+        ctx.fillText("Новый рекорд!", 50, 226);
+        localStorage.setItem('BestScore', JSON.stringify(score));
+    }
 }
 
 function Reload(){
     location.reload();
+}
+
+function MakeFaster() {
+    grav += 0.01;
+    if (gap > 100) {
+        gap -= 2;
+        inteval += 2;
+    }
 }
 
 pipeBottom.onload = draw;
