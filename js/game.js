@@ -29,7 +29,11 @@ var inteval = 0;
 document.addEventListener("keydown", moveUp);
 
 function moveUp() {
-    yPos -= 25;
+    for (var i = 0; i < 26; i++) {
+        setTimeout(function () {
+            yPos -= 1;
+        }, 40)
+    }
     fly.play();
 }
 
@@ -48,6 +52,8 @@ var best = localStorage.getItem('BestScore');
 var xPos = 10;
 var yPos = 150;
 var grav = 1.5;
+var ampl = 0;
+var bound = true;
 
 function draw() {
     ctx.drawImage(bg, 0, 0);
@@ -58,12 +64,46 @@ function draw() {
 
         pipe[i].x--;
 
+        
+
+        if (score == 20) {
+            ctx.fillText("Игра пройдена!", 50, 226);
+        }
+
+        if (ampl > 30) {
+            bound = false;
+        } else if (ampl < -30){
+            bound = true;
+        }
+
+        if ((score > 4) && (bound == true) && (score < 15)) {
+            pipe[i].y--;
+            ampl++;
+            if (score > 9) {
+                gap ++;
+            }
+        }
+        if ((score > 4) && (bound == false) && (score < 15)) {
+            pipe[i].y++;
+            ampl--;
+            if (score > 9) {
+                gap --;
+            }
+        }
+
         if (pipe[i].x == 110 + inteval) {
             pipe.push({
                 x : cvs.width,
                 y : Math.floor(Math.random() * pipeUp.height) - pipeUp.height
             });
         }
+	
+	    if ((score == 4) || (score == 9) || (score == 14) || (score == 19)){    
+            inteval = -100;
+            setTimeout(function () {
+                inteval = 0;
+            }, 1000)
+	    }
 
         // Отслеживание прикосновений
         if(xPos + bird.width - 20 >= pipe[i].x
@@ -81,7 +121,14 @@ function draw() {
             MakeFaster();
         }
 
-        
+        if ((pipe[i].x == 100) && (score > 15)) {
+            gap = 120;
+        }
+        if ((pipe[i].x == 0) && (score > 15)) {
+            setTimeout(function () {
+                gap = 0;
+            }, 500)
+        }
     }
 
     ctx.drawImage(fg, 0, cvs.height - fg.height);
@@ -91,6 +138,7 @@ function draw() {
 
     ctx.fillStyle = "#000";
     ctx.font = "24px Verdana";
+
     ctx.fillText("Счет: " + score, 10, cvs.height - 20);
     ctx.fillText("Рекорд: " + best, 10, cvs.height - 50);
     requestAnimationFrame(draw);
@@ -118,7 +166,7 @@ function Reload(){
 }
 
 function MakeFaster() {
-    grav += 0.01;
+    grav += 0.05;
     if (gap > 100) {
         gap -= 2;
         inteval += 2;
