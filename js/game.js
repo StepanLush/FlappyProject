@@ -112,8 +112,8 @@ function draw() {
            || yPos + bird.height - 10 >= pipe[i].y + pipeUp.height + gap)
            || yPos + bird.height - 10 >= cvs.height - fg.height) {
             delete (pipe[i]);
-    	 	endGame();// Перезагрузка страницы
-        }
+ 	 	endGame();// Перезагрузка страницы
+     //   }
 
         if(pipe[i].x == 5) {
             score++;
